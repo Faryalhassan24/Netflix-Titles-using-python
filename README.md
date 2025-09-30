@@ -1,14 +1,6 @@
 ## About the project
 This project analyzes the Netflix Movies and TV Shows dataset to uncover trends and insights about the content available on the platform. The analysis includes data cleaning, preprocessing, and exploratory data analysis (EDA) to study patterns such as Movies vs TV Shows distribution, content durations, ratings, and top content-producing countries.
 
-### Technologies Used
-
-•	Python
-•	Pandas
-•	Matplotlib, Seaborn
-•	Scikit-learn (Label Encoding)
-•	Jupyter Notebook
-
 ### Project Workflow
 
 1. Data Cleaning & Preprocessing
